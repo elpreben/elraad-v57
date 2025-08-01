@@ -1,0 +1,1 @@
+// Admin-panel: login, status, søk, sortering, CSV, logg ut
